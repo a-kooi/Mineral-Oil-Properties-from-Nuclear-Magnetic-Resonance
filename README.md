@@ -1,5 +1,4 @@
 # Mineral-Oil-Properties-from-Nuclear-Magnetic-Resonance
-======================
 
 > One of my laboratory write ups for my Advanced Physics Laboratory, PHYS134. The report details theory, our experimental setup, and our data analysis. 
 My lab partner and I gathered .csv data from a mineral oil sample affected by a magnetic field. I evaluated the data using three physics-based methods.
